@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "festival-post",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "dfae9f8e-53fc-423e-96ae-97cb1b7067c3",
+      "database_name": "festival-post-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
